@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1affaad1-55fb-46ae-895d-fdaa7aff3de2" name="Changes" comment="asdasda">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/eshop/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/design/eshop/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/eshop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/design/eshop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/eshop/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/design/eshop/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/eshop/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/design/eshop/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/eshop/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/design/eshop/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/eshop/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/design/eshop/pic4.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QAGK7sbPbbLGdFIDhFrBDdlPNg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "82b28f9119c079f4f29142d4bc9d16c1",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\piotr\IdeaProjects\sasda\src\main\resources" />
+      <recent name="C:\Users\piotr\IdeaProjects\sasda\inpostor" />
+      <recent name="C:\Users\piotr\IdeaProjects\sasda\inpostor\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ImpostorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="impostor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tqs.example.impostor.ImpostorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1affaad1-55fb-46ae-895d-fdaa7aff3de2" name="Changes" comment="" />
+      <created>1684788905452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684788905452</updated>
+      <workItem from="1684788906592" duration="2867000" />
+    </task>
+    <task id="LOCAL-00001" summary="asdasda">
+      <created>1684788963358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684788963358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="asdasda">
+      <created>1684789099171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684789099171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="asdasda">
+      <created>1684789362812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684789362812</updated>
+    </task>
+    <task id="LOCAL-00004" summary="asdasda">
+      <created>1684789803544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684789803544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="asdasda">
+      <created>1684790904033</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684790904033</updated>
+    </task>
+    <task id="LOCAL-00006" summary="asdasda">
+      <created>1684790995201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684790995201</updated>
+    </task>
+    <task id="LOCAL-00007" summary="asdasda">
+      <created>1684791572748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684791572748</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asdasda" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdasda" />
+  </component>
+</project>
